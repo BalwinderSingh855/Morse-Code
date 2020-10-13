@@ -9,7 +9,7 @@ root = tkinter.Tk()
 root.title('Morse Code Translator')
 root.iconbitmap('morse.ico')
 root.geometry('500x350')
-root.resizable(0,0)
+root.resizable(1,1)
 #Define fonts colors
 button_font = ('SimSun', 10)
 root_color = "#778899"
